@@ -1,7 +1,8 @@
 ---
-title: Example
-description: This page is just an example.
-layout: default.hbs
+title: Blog
+description: Official New Zealand Auto Glass blog
+keywords: auto glass, windscreens, replacement, repair, advanced driver assistance systems, New Zealand
+layout: index.hbs
 ---
 
 ## Lorem ipsum
